@@ -1,6 +1,5 @@
 <h1 align="center">Tabela Estilizada 🟪</h1>
-<p align="center">Primeiro desafio de HTML e CSS Básico do curso DevQuest.</p>
-<p align="center">Um projeto simples de tabela estilizada.</p>
+<p align="center">Um projeto simples de tabela com HTML + CSS !</p>
 <div align="center">
   <img src="https://i.imgur.com/rSSoDae.gif" width="500px"> 
 </div>
